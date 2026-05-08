@@ -12,10 +12,10 @@
 }
 
 main {
-width: min(900px, 90%);
 margin: 40px auto;
 color: #ffffff;
 background: #090253;
+width: 100%;
 }
 
 .section {
@@ -29,6 +29,7 @@ border: 2px dashed #ff65c1;
 border-radius: 8px;
 color: #ffffff;
 background: #8702f4;
+width: 95%;
 }
 
 .card-list {
