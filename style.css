@@ -12,8 +12,9 @@
 }
 
 main {
-width: min(900px, 90%);
+width: min(900px, 95%);
 margin: 40px auto;
+color: #ffffff;
 background: #090253;
 }
 
