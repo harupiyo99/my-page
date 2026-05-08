@@ -12,8 +12,8 @@
 }
 
 main {
-width: min(900px, 95%);
-margin: 40px auto;
+width: min(90px, 95%);
+margin: 5px auto;
 color: #ffffff;
 background: #090253;
 }
