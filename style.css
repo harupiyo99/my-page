@@ -12,14 +12,15 @@
 }
 
 main {
-width: min(90px, 95%);
-margin: 5px auto;
+width: min(900px, 90%);
+margin: 40px auto;
 color: #ffffff;
 background: #090253;
 }
 
 .section {
 margin-bottom: 32px;
+color: #ffffff;
 }
 
 .box {
