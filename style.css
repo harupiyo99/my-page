@@ -14,17 +14,19 @@
 main {
 width: min(900px, 90%);
 margin: 40px auto;
+color: #ffffff;
 }
 
 .section {
 margin-bottom: 32px;
+color: #ffffff;
 }
 
 .box {
 padding: 20px;
 border: 2px dashed #ff65c1;
 border-radius: 8px;
-background: #010126;
+background: #8702f4;
 }
 
 .card-list {
