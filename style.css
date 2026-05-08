@@ -14,12 +14,10 @@
 main {
 width: min(900px, 90%);
 margin: 40px auto;
-color: #ffffff;
 }
 
 .section {
 margin-bottom: 32px;
-color: #ffffff;
 }
 
 .box {
