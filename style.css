@@ -33,7 +33,12 @@ width: 95%;
 }
 
 .card-list {
+border: 2px dashed #ff65c1;
 display: grid;
 grid-template-columns: repeat(3, 1fr);
 gap: 16px;
+}
+
+* {
+    box-sizing: border-box;
 }
